@@ -4,7 +4,9 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.9.10"
   },
   "peerDependencies": {
     "typescript": "^5"
